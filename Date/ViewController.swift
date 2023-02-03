@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         
         configDate()
         date3()
+        print("A")
     }
     func configDate() {
         let date = Date()
